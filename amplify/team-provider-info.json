@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify6bd17345aa9a4-staging-13124-authRole",
+      "UnauthRoleArn": "arn:aws:iam::272433862188:role/amplify-amplify6bd17345aa9a4-staging-13124-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::272433862188:role/amplify-amplify6bd17345aa9a4-staging-13124-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplify6bd17345aa9a4-staging-13124-deployment",
+      "UnauthRoleName": "amplify-amplify6bd17345aa9a4-staging-13124-unauthRole",
+      "StackName": "amplify-amplify6bd17345aa9a4-staging-13124",
+      "StackId": "arn:aws:cloudformation:us-east-2:272433862188:stack/amplify-amplify6bd17345aa9a4-staging-13124/b4c3f3d0-66b4-11ec-b595-06b9fce9c666",
+      "AmplifyAppId": "dgisgnr57ga1q"
+    },
+    "categories": {
+      "auth": {
+        "weddinginvitation71a1626a": {}
+      }
+    }
+  }
+}
