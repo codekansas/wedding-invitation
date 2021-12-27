@@ -1,6 +1,6 @@
 {
   "auth": {
-    "weddinginvitation71a1626a": {
+    "weddinginvitation93e0e98e": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
